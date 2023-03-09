@@ -1,0 +1,20 @@
+{
+  "name": "cli-currency-converterpanaverse",
+  "version": "1.1.0",
+  "description": "",
+  "main": "cc.cjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":"./cc.cjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
